@@ -1,0 +1,10 @@
+This project was built as part of a Python Developer Internship assignment.
+The goal is to create a simplified trading bot that can interact with the Binance Futures Testnet, demonstrating:
+
+Clean and reusable code structure
+Proper validation and error handling
+Structured logging
+Clear documentation
+Real API integration (testnet environment)
+The project is intentionally strategy-agnostic and focuses purely on engineering quality.
+
